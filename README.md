@@ -2,7 +2,7 @@ The currency converter web app is built-in ReactJs with the help of a free API (
 
 
 To clone the directory use command:
-## git clone git@github.com:CodeWithAnees/Currency-Converter-in-ReactJs.git
+### git clone git@github.com:CodeWithAnees/Currency-Converter-in-ReactJs.git
 
 ## Available Scripts
 
